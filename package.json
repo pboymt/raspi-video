@@ -1,0 +1,11 @@
+{
+  "name": "raspi-video",
+  "version": "0.0.1",
+  "description": "video server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "pboymt",
+  "license": "GPL-3.0"
+}
